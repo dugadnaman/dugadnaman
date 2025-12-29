@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dugadnaman
 - 👀 I’m interested in Software developement
 - 🌱 I’m currently learning java ,c++, python.
-- 💞️ I’m looking to collaborate on opensource , AI
+- 💞️ I’m looking to collaborate on opensource , AI, Backend applications.
 - 📫 To reach me: dugadanaman@gmail.com
 
 <!---
