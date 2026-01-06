@@ -3,8 +3,3 @@
 - 🌱 I’m currently learning java ,c++, python.
 - 💞️ I’m looking to collaborate on opensource , AI, Backend applications.
 - 📫 To reach me: dugadanaman@gmail.com
-
-<---
-dugadnaman/dugadnaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
